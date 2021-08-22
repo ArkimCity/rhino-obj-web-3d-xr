@@ -1,12 +1,10 @@
 # vue-3-github-page-template
 
-<hr>
 
 ## - example page
 
 [https://arkimcity.github.io/vue-3-github-page-template](https://arkimcity.github.io/vue-3-github-page-template)
 
-<hr>
 
 ## - new project
 
@@ -22,7 +20,6 @@ module.exports = {
 }
 
 ```
-<hr>
 
 ## - run test
 
@@ -34,7 +31,6 @@ cd frontend
 npm run serve
 ```
 
-<hr>
 
 ## - build
 
