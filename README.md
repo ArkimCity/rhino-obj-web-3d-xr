@@ -1,26 +1,12 @@
-# rhino-and-obj-to-web3d-xr
- 
-[https://arkimcity.github.io/rhino-and-obj-to-web3d-xr](https://arkimcity.github.io/rhino-and-obj-to-web3d-xr)
+# vue-3-github-page-template
 
-## - run test
+<hr>
 
-from root
+## - example page
 
-```
-cd frontend
+[https://arkimcity.github.io/vue-3-github-page-template](https://arkimcity.github.io/vue-3-github-page-template)
 
-npm run serve
-```
-
-## - build
-
-from root
-
-```
-cd frontend
-
-npm run build
-```
+<hr>
 
 ## - new project
 
@@ -34,4 +20,28 @@ module.exports = {
     ? '/vue-3-github-page-template/' // this is going to be your new subdomain url for github pages
     : '/'
 }
+
+```
+<hr>
+
+## - run test
+
+from root
+
+```
+cd frontend
+
+npm run serve
+```
+
+<hr>
+
+## - build
+
+from root
+
+```
+cd frontend
+
+npm run build
 ```
